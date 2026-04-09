@@ -1,5 +1,9 @@
-My CV: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/blob/main/CV-CHAO%20SIVCHHUONG.pdf)
-My certification: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/commit/9ecaa8320388c8d82f3125e5be066862a6f3350d)
+My CV: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/blob/main/CV-CHAO%20SIVCHHUONG.pdf).
+
+My certification: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/commit/9ecaa8320388c8d82f3125e5be066862a6f3350d).
+
+Internship: [Download](https://github.com/chhuong432-tech/My-References/commit/064355f49e7b6d9e6aa29249eb0827fbca0e86fa).
+
 # 🎓 Engineering Portfolio: Year III & IV Archive
 
 This repository is a centralized archive of my Industrial and Mechanical Engineering projects, organized by academic year and core discipline.
